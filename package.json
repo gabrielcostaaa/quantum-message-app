@@ -1,0 +1,12 @@
+{
+  "name": "quantum-message",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "mobile": "yarn workspace mobile start",
+    "api:dev": "yarn workspace api dev",
+    "api:build": "yarn workspace api build"
+  }
+}
