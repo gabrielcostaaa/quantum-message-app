@@ -1,5 +1,5 @@
 const QuantumColors = {
-  primary: '#6A1B9A',
+  primary: '#6DEAED',
   primaryText: '#FFFFFF',
   secondary: '#F3E5F5',
   secondaryText: '#4A148C',
